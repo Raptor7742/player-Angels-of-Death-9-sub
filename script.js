@@ -25,7 +25,7 @@ const playerInstance = jwplayer("player").setup({
 
   playlist: [
     {
-      title: "Angels of Death - épisode 1 VOSTFR",
+      title: "Angels of Death - épisode 9 VOSTFR",
       description: "Vous regardez",
       image: "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/c6939614ef5b1d51b537d257f6d926fb.jpe",
       sources: [
